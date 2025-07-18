@@ -10,8 +10,8 @@ Book Search & Bookmarking
 https://hanami979.sakura.ne.jp/php02kadai_bookmarkAPI/index.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
-- ID: なし
-- PW: なし
+- ID: gs    
+- PW: academy
 
 ## ⑤工夫した点・こだわった点
 - 工夫と言っていいのかわかりませんが、習ってきた教材を活用しました
